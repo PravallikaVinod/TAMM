@@ -1,5 +1,9 @@
 # CreditCardSystem
 
+Clone the project in local folder
+git clone https://github.com/PravallikaVinod/TAMM.git
+
+
 1)Run "npm install" to install all the dependencies
 2)Run "npm run dev" to start both server and client terminals
 3)Server starts running on port 8000
