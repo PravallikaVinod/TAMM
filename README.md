@@ -1,4 +1,4 @@
-# TAMM
+# CreditCardSystem
 
 1)Run "npm install" to install all the dependencies
 2)Run "npm run dev" to start both server and client terminals
